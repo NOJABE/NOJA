@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px;
+padding:0px}
+#General{
+top:0px;
+width:1300px;
+height:600px;
+background-color:#FFFFFF;}
+.Superior{
+    width:1300;
+    height:250px;
+    background-color:#F4F0C3;}
+.Encabezado{
+	 margin-left:150px;
+   }
+#Nombre{
+    position: absolute;
+	margin:auto;
+	left: 100px;
+	top:265px;
+	margin-top:0px;
+   width:100px;
+   height:50px;
+    background-color:#F4F0C3;}
+h1{
+ text-align:center;
+ font-size:40px;
+ font-family:verdana;}
+h2{
+color:darkred;}
+p{
+	font-size: 30px;
+	margin-left:90px;
+}
+#menu{
+margin-top: 15px;
+width:1300px;
+height:50px;
+background-color:#F4F0C3;}
+div ul{
+	font-size:20px;
+	text-align:center;
+	padding-top:15px;
+font-color: #000000;
+	}
+
+div ul li{
+    display:inline;
+     padding-left: 0.6em;
+     padding-right:0.6em ;
+
+    }
+.Medio{
+    position: absolute;
+	margin:auto;
+	left:252px;
+	top:320px;
+	margin-top:0px;
+   width:750px;
+   height:400px;}
+#izquierda { 
+  margin-top:50px;
+  margin-left:0px;
+  margin-right:10px;
+  width:250px;
+  height:250px;
+  background-color:#F0D9B4;}
+#derecha{ 
+  position: absolute;
+		top:350px;
+		margin-left:1000px;
+		margin-right:15px;
+		width:300px;
+		height:250px;
+		background-color:#F0D9B4 ;}
+#abajo{
+margin-top:90px;
+    width:1300;
+    height:90px;
+    background-color:#F4F0C3;}
